@@ -90,7 +90,8 @@ KERNEL_WAVEFIELDS    true
 </pre>
 
 In addition, make sure that sensible values are chosen for the following two parameters
-*(whose default values are for an unknown, larger than Earth sized planet...)*:
+*(whose default values are for an unknown, larger than Earth sized planet... probably for
+use with Paraview!)*:
 <pre>
 KERNEL_RMIN
 KERNEL_RMAX
