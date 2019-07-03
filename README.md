@@ -10,7 +10,8 @@ comprehensive guide to using AxiSEM, consult the user manual which can be found
 Begin by logging into Tiger, and loading the following modules by executing:
 
 
-```module load openmpi/intel-16.0/1.10.2/64 hdf5/intel-16.0/openmpi-1.10.2/1.8.16 
+```
+module load openmpi/intel-16.0/1.10.2/64 hdf5/intel-16.0/openmpi-1.10.2/1.8.16 
 netcdf/intel-16.0/hdf5-1.8.16/openmpi-1.10.2/4.4.0 intel/16.0/64/16.0.4.258
 ```
 
