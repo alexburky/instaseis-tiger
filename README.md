@@ -121,7 +121,7 @@ Create a directory to store the databases in, and within this directory make two
 simulations into these directories. Then, execute:
 
 <pre>
-python -m instaseis.scripts.repack_db $INPUT_DIR $OUTPUT_DIR
+python -m instaseis.scripts.repack_db --method repack $INPUT_DIR $OUTPUT_DIR
 </pre>
 
 where `$INPUT_DIR` is the directory containing the `PX` and `PZ` directories. The repacked
