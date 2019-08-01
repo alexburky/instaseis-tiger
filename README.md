@@ -1,6 +1,6 @@
 # Generating Instaseis Databases on Tiger
 
-This notebook provides a practical guide to compiling AxiSEM on Tiger for the purpose
+This document provides a practical guide to compiling AxiSEM on Tiger for the purpose
 of generating reciprocal Green's function databases for use with Instaseis. For a more
 comprehensive guide to using AxiSEM, consult the user manual which can be found 
 [here](https://geodynamics.org/cig/software/axisem/axisem-manual.pdf).
